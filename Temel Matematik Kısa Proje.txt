@@ -1,0 +1,27 @@
+Merhaba arkadaşlar. Patika.dev tarafından verilen Temel Matematik dersinin son adımı olan proje de Matematik ile ilgili istediğimiz herhangi bir konu hakkında 
+ezber bilgi içermeyecek sezgisel anlama dayalı bir gönderi yazmamız istenmiştir. Ben de okumakta olduğum Matematik bölümünün güz döneminde hazırlamış olduğum
+dönem sonu bitirme projesinde araştırma konusunun Çok Değişkenli Fonksiyonlar olduğu kısa bir konu başlığını sizinle paylaşmak istedim. Bu konu başlığında iki değişkenli
+fonksiyon grafiklerin de seviye eğrilerine kısaca değinmektedir ilginiz için teşekkür ederim. 
+
+
+
+İki Değişkenli Fonksiyonların Grafikleri 
+
+f iki değişkenli bir fonksiyon ise f’nin grafiği (x,y) tanım kümesinin elemanları olmak üzere (x,y,f(x,y)) noktalarının kümesidir. 
+İki değişkenli bir fonksiyonun grafiğinin çizimi için iki temel yol vardır. 
+Bunlardan biri (x,y) noktalarını tanım kümesini taratarak (x,y,f(x,y)) noktalarını uzayda işaretlemek, 
+ikinci seviye eğrisi denilen eğrilerden yararlanmaktır. Önce bu eğrileri tanımlayalım. 
+
+Tanım 
+
+z=f(x,y) fonksiyonu verildiğinde xy düzleminde, fonksiyonun sabit değerler aldığı noktaların oluşturduğu eğrilere f ’nın seviye eğrileri denir.  
+
+Örnek  
+
+f(x,y)=1+x2+y2 fonksiyonun bazı seviye eğrilerini bulunuz.
+
+Çözüm :  
+
+f fonksiyonu x2+y2=1 çemberi üzerinde f(x,y)=2 sabit değerlerini alır. 
+O halde x2+y2=1 çemberi bir seviye eğrisidir. x2+y2=4 için f(x,y)=5 olduğundan x2+y2=4 çemberi de bir seviye eğrisidir. 
+Bunlar gibi daha sonsuz çoklukta seviye eğrisi bulunabilir. x2+y2=0 yani x=y=0 için f(x,y)=1 olduğundan (0,0) noktası da bir seviye eğrisidir
